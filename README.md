@@ -1,23 +1,6 @@
 # Sales-prediction
 Forecast product sales based on historical data to help businesses optimize their marketing and sales strategies.
-# Project structure
-sales_forecasting/
-│
-├── data/
-│   └── car_purchasing.csv
-│
-├── notebooks/
-│   └── sales_forecasting.ipynb
-│
-├── results/
-│   ├── correlation_heatmap.png
-│   ├── boxplots.png
-│   ├── actual_vs_predicted.png
-│   └── feature_importance.png
-│
-├── README.md
-│
-└── requirements.txt
+
 🎯 Project Objective
 Predict car purchase amounts using customer demographic and financial information.
 
